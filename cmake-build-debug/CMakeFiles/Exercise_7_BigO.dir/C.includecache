@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/armin/Desktop/Exercise 7 BigO/sort_functions.c
+sort_functions.h
+/cygdrive/c/Users/armin/Desktop/Exercise 7 BigO/sort_functions.h
+stdio.h
+-
+stdlib.h
+-
+
+/cygdrive/c/Users/armin/Desktop/Exercise 7 BigO/sort_functions.h
+
+/cygdrive/c/Users/armin/Desktop/Exercise 7 BigO/sort_main.c
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+time.h
+-
+sort_functions.h
+/cygdrive/c/Users/armin/Desktop/Exercise 7 BigO/sort_functions.h
+
